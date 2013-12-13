@@ -1,0 +1,1 @@
+application=logo.jar,NetLogo.jar,lib
